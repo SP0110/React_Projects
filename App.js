@@ -5,9 +5,9 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>First Project!</Text>
+      <Text>First Project Uploaded!</Text>
       <StatusBar style="auto" />
-      
+
     </View>
   );
 }
